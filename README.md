@@ -31,5 +31,5 @@ Yil, oy va filial bo'yicha.
 Power BI (Power Query, DAX, Data Model, Vizualizatsiya)
 
 ## Fayllar
-- `SAFIA_dashboard.pbix` — Power BI fayli
+- `52588dfb-e3b7-4850-b578-ef87295a3189.pbix` — Power BI fayli
 - `dashboard.png` — dashboard skrinshoti
